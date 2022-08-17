@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, sports analytics, and applications of ML in healthcare.
 - 🌱 I’m currently studying Applied Data Science, MS at Indiana University-Indianapolis.
 - 💞️ I’m looking to collaborate with like-minded, driven individuals.
-- 📫 How to reach me: dallas.hutchinson4@gmail.com
+- 📫 How to reach me: dallas.hutchinson4@gmail.com OR [LinkedIn](https://www.linkedin.com/in/dallas-hutchinson/)
 
 <!---
 dallas-hutch/dallas-hutch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
